@@ -155,3 +155,6 @@ This will allow you to use Morphic as your default search engine in the browser.
 - [Groq](https://console.groq.com/docs/models)
   - LLaMA3 8b
   - LLaMA3 70b
+
+## TODO:
+[] Integrate voice interactions: https://github.com/ai-ng/swift/tree/main
